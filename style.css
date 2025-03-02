@@ -1,5 +1,4 @@
 body {
-    background-color: black;
     margin: 0;
 }
 
@@ -10,14 +9,14 @@ body {
 
 .gray-header {
     width: 100%;
-    height: 100px;
-    background-color: rgb(231, 221, 221);
+    height: 60px;
+    background-color: #AFAFAF;
 }
 
 .orange-header {
-    background-color: orange;
+    background-color:  #FF6600;
     width: 100%;
-    height: 100px;
+    height: 90px;
     display: flex;
     align-items: center;
 }
